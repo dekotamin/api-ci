@@ -1,0 +1,1 @@
+# Project Sapmle [![Build status](https://ci.appveyor.com/api/projects/status/vdprwt3p4693na6f/branch/master?svg=true)](https://ci.appveyor.com/project/dekotamin/api-ci/branch/master)
